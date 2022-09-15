@@ -50,3 +50,4 @@ func add6(num6:Int){
 let add6=readLine()!
 add6(num6: -20)
           
+//done!!
